@@ -38,4 +38,15 @@
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Breast-Cancer-Segmentation-With-Attention-UNet/blob/main/Graphs/IOU.png?raw=true" width="700" height="400">
 </p>
+<h2>Model Evaluation</h2>
+<ul>
+  <li>Training Data Accuracy: 90 %</b></li>
+  <li>Test Data Accuracy: 86 %</li>
+  <li>Training Data Loss: 0.90</li> 
+  <li>Test Data Loss: 0.31</li> 
+</ul>  
+<h2>Model Prediction</h2>
+<p align="center"> 
+<img src="https://github.com/NavinBondade/Breast-Cancer-Segmentation-With-Attention-UNet/blob/main/Graphs/output.png?raw=true" width="800" height="1200">
+</p>
 
