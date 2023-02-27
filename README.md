@@ -13,3 +13,10 @@
   <li>Sklearn</li>
   <li>NLTK</li>
 </ul>
+<h2>Data Visualization</h2>
+<p align="center"> 
+<img src="https://github.com/NavinBondade/Breast-Cancer-Segmentation-With-Attention-UNet/blob/main/Graphs/Dataset%20Visualization.png?raw=true" width="750" height="500">
+</p>
+<p align="center"> 
+<img src="https://github.com/NavinBondade/Breast-Cancer-Segmentation-With-Attention-UNet/blob/main/Graphs/Dataset%20Visualization%202.png?raw=true" width="750" height="500">
+</p>
