@@ -42,4 +42,7 @@
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Breast-Cancer-Segmentation-With-Attention-UNet/blob/main/Graphs/output.png?raw=true" width="800" height="1200">
 </p>
+<h2>Conclusion</h2>  
+<p>In this project, I have created Attention U-Net model for correctly segmenting breast cancer from ultrasound images.</p>  
+
 
