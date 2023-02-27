@@ -11,7 +11,6 @@
   <li>Matplotlib</li>
   <li>Seaborn</li>
   <li>Sklearn</li>
-  <li>NLTK</li>
 </ul>
 <h2>Data Visualization</h2>
 <p align="center"> 
