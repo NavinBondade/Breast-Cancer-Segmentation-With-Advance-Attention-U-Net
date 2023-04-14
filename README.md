@@ -1,7 +1,7 @@
 # Breast Cancer Segmentation With Attention U-Net
 <p align="center">
 </p>
-<img src="https://www.yourhealth.net.au/wp-content/uploads/2017/09/pink-ribbon-for-breast-cancer-awareness.jpg" width="1200" height="620">
+<img src="https://www.yourhealth.net.au/wp-content/uploads/2017/09/pink-ribbon-for-breast-cancer-awareness.jpg" width="1200" height="500">
 <p>Breast cancer is the most common cancer diagnosed in women, accounting for more than 1 in 10 new cancer diagnoses each year. It is the second most common cause of death from cancer among women in the world. In this project, I have developed the attention U-Net segmentation model that accurately segments the breast cancer-infected region from the breast ultrasound images. This model will significantly reduce radiologist time and fasten the process of breast cancer identification. </p>
 <h2>Libraries Used</h2>
 <ul>
