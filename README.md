@@ -1,7 +1,7 @@
 # Breast Cancer Segmentation With Attention U-Net
 <p align="center">
 </p>
-<img src="https://lymphapress.com/wp-content/uploads/2021/10/LP_BlogPost_6.jpg" width="1500" height="520">
+<img src="https://www.sysmex-europe.com/fileadmin/_processed_/a/9/csm_LifeScience_StageImage_BreastCancer_1500x600-01_2498abd1e0.jpg" width="1500" height="520">
 <p>Breast cancer is the most common cancer diagnosed in women, accounting for more than 1 in 10 new cancer diagnoses each year. It is the second most common cause of death from cancer among women in the world. In this project, I have developed the attention U-Net segmentation model that accurately segments the breast cancer-infected region from the breast ultrasound images. This model will significantly reduce radiologist time and fasten the process of breast cancer identification. </p>
 <h2>Libraries Used</h2>
 <ul>
