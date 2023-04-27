@@ -38,8 +38,8 @@
 <img src="https://github.com/NavinBondade/Breast-Cancer-Segmentation-With-Attention-UNet/blob/main/Graphs/IOU.png?raw=true" width="700" height="400">
 </p>
 <h2>Model Prediction</h2>
-<p align="center"> 
-<img src="https://github.com/NavinBondade/Sandstone-Microstructure-Segmentation-With-Attention-U-Net/blob/main/Graphs/Output.png" width="800" height="1200">
+<p align="center">
+<img src="https://github.com/NavinBondade/Breast-Cancer-Segmentation-With-Attention-UNet/blob/main/Graphs/output.png?raw=true" width="800" height="1200">
 </p>
 <h2>Conclusion</h2>  
 <p>In this project, I have created Attention U-Net model for correctly segmenting breast cancer from ultrasound images.</p>  
