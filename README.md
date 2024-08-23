@@ -22,7 +22,7 @@
 <img src="https://github.com/NavinBondade/Breast-Cancer-Segmentation-With-Attention-UNet/blob/main/Graphs/Dataset%20Visualization%202.png?raw=true" width="750" height="500">
 </p>
 <h2>Methodology</h2>
-<p>Attention U-Net network borrowed the idea of an attention mechanism from NLP and used it in skip connections. It gave the skip connections an extra idea of which region to focus on while segmenting the given object. The model has been trained for 20 epochs with binary cross entropy as the loss function and Adam as the optimizer.</p>
+<p>The U-Net architecture, renowned for its exceptional performance in image segmentation tasks, incorporates a novel attention mechanism inspired by natural language processing techniques. This mechanism is strategically integrated into the skip connections, empowering them to selectively prioritize specific image regions during the segmentation process. By dynamically adjusting the focus of the skip connections, the U-Net can effectively identify and delineate the desired object within the image. The model was meticulously trained for 20 epochs, employing binary cross-entropy as the loss function and the Adam optimizer, resulting in a robust and accurate segmentation capability. </p>
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Breast-Cancer-Segmentation-With-Attention-UNet/blob/main/Graphs/model.png?raw=true">
 </p>
